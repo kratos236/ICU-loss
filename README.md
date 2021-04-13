@@ -1,6 +1,6 @@
 # ICU-loss
-## A pytorch reproduction of ICME 2021 paper: { Intra-Class Uncertainty Loss Function for Classification }.
-## [Arxiv Preprint](https://arxiv.org/abs/2104.05298)
+## A pytorch reproduction of ICME 2021 paper:
+## [Intra-Class Uncertainty Loss Function for Classification](https://arxiv.org/abs/2104.05298)
 ### This code based on the [Long-tailed classification](https://github.com/KaihuaTang/Long-Tailed-Recognition.pytorch)
 ## The ICU loss code is /classification/models/ICUNormClassifier.py
 
